@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VCC Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=VCC Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=VCC Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=VCC Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=VCC Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=GND Pin=U4-4
+Removed Pin From Net: NetName=+3V3 Pin=U4-8
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=P2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=Q1
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=Q2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R3
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R4
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R5
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R6
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=U4
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X6 New Footprint=HDR1X2
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=Header 2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=KURTARMA_1 Pin=P1-1
+Added Pin To Net: NetName=KURTARMA_1 Pin=R1-1
+Added Pin To Net: NetName=KURTARMA_1 Pin=U3-31
+Added Net: Name=KURTARMA_1
+Added Pin To Net: NetName=KURTARMA_2 Pin=P1-2
+Added Pin To Net: NetName=KURTARMA_2 Pin=R2-1
+Added Pin To Net: NetName=KURTARMA_2 Pin=U3-26
+Added Net: Name=KURTARMA_2

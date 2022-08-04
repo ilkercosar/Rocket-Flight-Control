@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MOSI Pin=U3-5
+Added Pin To Net: NetName=MOSI Pin=U3-10

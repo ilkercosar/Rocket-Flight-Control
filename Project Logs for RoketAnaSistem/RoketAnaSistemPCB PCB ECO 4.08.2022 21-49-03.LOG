@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3V3 Pin=P2-1
+Removed Pin From Net: NetName=CSN Pin=P2-2
+Removed Pin From Net: NetName=MOSI Pin=P2-3
+Removed Pin From Net: NetName=SCK Pin=P2-4
+Removed Pin From Net: NetName=MISO Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=NetO1_1 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=NetO2_1 Pin=R6-2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=P2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R5
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R6
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component U5 LPS25H MODULE

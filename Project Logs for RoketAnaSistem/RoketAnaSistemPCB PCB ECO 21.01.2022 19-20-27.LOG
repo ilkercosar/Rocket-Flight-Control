@@ -1,0 +1,6 @@
+Added Component: Designator=U4(LPS25H SENSOR)
+Added Pin To Net: NetName=+3V3 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=I2C_SDA0 Pin=U4-4
+Added Pin To Net: NetName=I2C_SCL0 Pin=U4-5
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component U4 LPS25H MODULE

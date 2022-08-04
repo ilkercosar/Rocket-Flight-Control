@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GPS_TX Pin=U3-22
+Added Component: Designator=TB(ARDUINO NANO)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ARDUINO NANO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ARDUINO%20NANO/Arduino/view-part/1128261/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TB-4
+Added Pin To Net: NetName=GPS_TX Pin=TB-6
+Added Pin To Net: NetName=GND Pin=TB-29
+Added Pin To Net: NetName=+3V3 Pin=TB-30
+Added Pin To Net: NetName=MCU_TX Pin=TB-1
+Added Pin To Net: NetName=MCU_TX Pin=U3-22
+Added Net: Name=MCU_TX
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component TB ARDUINO_NANO

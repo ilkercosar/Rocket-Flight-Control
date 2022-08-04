@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetR2_2 Pin=U3-26
+Removed Pin From Net: NetName=NetR1_2 Pin=U3-30
+Removed Pin From Net: NetName=PWM_K2 Pin=U4-6
+Removed Pin From Net: NetName=PWM_K1 Pin=U4-7
+Removed Pin From Net: NetName=GND Pin=U4-10
+Removed Pin From Net: NetName=NetR1_1 Pin=U4-12
+Removed Pin From Net: NetName=NetR2_1 Pin=U4-16
+Removed Pin From Net: NetName=+3V3 Pin=U4-20
+Change Component Footprint: Designator=R1 Old Footprint=6-0805_L New Footprint=603R
+Change Component Footprint: Designator=R2 Old Footprint=6-0805_L New Footprint=603R
+Change Component Footprint: Designator=R3 Old Footprint=6-0805_L New Footprint=603R
+Change Component Footprint: Designator=R4 Old Footprint=6-0805_L New Footprint=603R
+Change Component Footprint: Designator=U4 Old Footprint=ATtiny2313 New Footprint=ATTINY85V-10SU
+Change Component Comment : Designator=U4 Old Comment=ATTINY2313A-PU New Comment=ATTINY85V-10SU
+Change Component Comment : Designator=R1 Old Comment=Res Thermal New Comment=603R
+Change Component Comment : Designator=R2 Old Comment=Res Thermal New Comment=603R
+Change Component Comment : Designator=R3 Old Comment=Res Thermal New Comment=603R
+Change Component Comment : Designator=R4 Old Comment=Res Thermal New Comment=603R
+Change component parameters: Designator = "U4" ("U4"); Footprint = "ATtiny2313"; UniqueID = "\FYTOMDQA" ("\FYTOMDQA")
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=4710232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow_Purchase_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4710232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=4710232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ATTINY85V-10SU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATTINY85V-10SU/Microchip/view-part/4710232/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "6-0805_L"; UniqueID = "\EQHZYCWN" ("\EQHZYCWN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "6-0805_L"; UniqueID = "\RIQLOVLJ" ("\RIQLOVLJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "6-0805_L"; UniqueID = "\VSWHJREA" ("\VSWHJREA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "6-0805_L"; UniqueID = "\FSMROSJO" ("\FSMROSJO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=R5(603R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(603R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-2176340-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-26
+Added Pin To Net: NetName=NetR1_1 Pin=U3-31
+Added Pin To Net: NetName=NetR2_2 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=PWM_K2 Pin=U4-5
+Added Pin To Net: NetName=PWM_K1 Pin=U4-6
+Added Pin To Net: NetName=NetR1_2 Pin=U4-7
+Added Pin To Net: NetName=+3V3 Pin=U4-8
+Added Pin To Net: NetName=MF1 Pin=R3-2
+Added Pin To Net: NetName=MF1 Pin=U4-2
+Added Net: Name=MF1
+Added Pin To Net: NetName=MF2 Pin=R5-2
+Added Pin To Net: NetName=MF2 Pin=U4-3
+Added Net: Name=MF2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R6-2
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component C3 Cap
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component C4 Cap
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component R5 603R
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component R6 603R

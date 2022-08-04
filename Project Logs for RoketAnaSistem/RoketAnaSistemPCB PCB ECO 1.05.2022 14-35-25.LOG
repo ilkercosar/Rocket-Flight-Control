@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=+3V3 Pin=IC2-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=+3V3 Pin=R2-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-1
+Removed Pin From Net: NetName=+3V3 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=C1
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=C3
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=IC2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=J1
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R1
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=R2
+Added Component: Designator=P3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-6
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component P3 Header 2

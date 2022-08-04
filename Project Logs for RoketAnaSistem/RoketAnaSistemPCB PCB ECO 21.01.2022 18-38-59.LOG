@@ -1,0 +1,45 @@
+Added Component: Designator=IC1(MPU9250 MODULE - duplicate)
+Added Component: Designator=J1(AMASS_XT60-M)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/2883912/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(BMP280 MODULE)
+Added Component: Designator=U3(RASSBERY PI PICO)
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U3-40
+Added Pin To Net: NetName=+3V3 Pin=IC1-1
+Added Pin To Net: NetName=+3V3 Pin=IC1-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=GND Pin=U3-23
+Added Pin To Net: NetName=GND Pin=U3-28
+Added Pin To Net: NetName=GND Pin=U3-33
+Added Pin To Net: NetName=GND Pin=U3-38
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GPS_RX Pin=U3-21
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=I2C_SCL0 Pin=U2-3
+Added Pin To Net: NetName=I2C_SCL0 Pin=U3-2
+Added Pin To Net: NetName=I2C_SCL0 Pin=IC1-3
+Added Net: Name=I2C_SCL0
+Added Pin To Net: NetName=I2C_SDA0 Pin=U2-4
+Added Pin To Net: NetName=I2C_SDA0 Pin=U3-1
+Added Pin To Net: NetName=I2C_SDA0 Pin=U3-1
+Added Pin To Net: NetName=I2C_SDA0 Pin=IC1-4
+Added Net: Name=I2C_SDA0
+Added Pin To Net: NetName=RF_RX Pin=U3-11
+Added Net: Name=RF_RX
+Added Class: Name=RoketAnaSistemSematik
+Added Room: Name=RoketAnaSistemSematik

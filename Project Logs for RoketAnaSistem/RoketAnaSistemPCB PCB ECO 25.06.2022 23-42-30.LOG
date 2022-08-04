@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=IC2-1
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=IC2

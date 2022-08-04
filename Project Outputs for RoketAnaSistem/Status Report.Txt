@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:56:15 On 4.08.2022
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [RoketAnaSistemPCB.PcbDoc]
+   Generated File[RoketAnaSistemPCB.RUL]
+   Generated File[RoketAnaSistemPCB.EXTREP]
+   Generated File[RoketAnaSistemPCB.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:56:16 On 4.08.2022

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC1-1
+Removed Pin From Net: NetName=+3V3 Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=I2C_SCL0 Pin=IC1-3
+Removed Pin From Net: NetName=I2C_SDA0 Pin=IC1-4
+Removed Member From Class: ClassName=RoketAnaSistemSematik Member=IC1
+Added Component: Designator=P5(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=I2C_SCL0 Pin=P5-3
+Added Pin To Net: NetName=I2C_SDA0 Pin=P5-4
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component P5 Header 4

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=VCC Pin=P2-4
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component C3 Cap
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component U4 ATTINY2313A-PU
+Added Member To Class: ClassName=RoketAnaSistemSematik Member=Component U6 BMP280 MODULE
